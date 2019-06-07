@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Cardin_2.0/static/css/main.6eb2a6d9.chunk.css",
-    "main.js": "/Cardin_2.0/static/js/main.e50500d2.chunk.js",
-    "main.js.map": "/Cardin_2.0/static/js/main.e50500d2.chunk.js.map",
+    "main.css": "/Cardin_2.0/static/css/main.e21dceb9.chunk.css",
+    "main.js": "/Cardin_2.0/static/js/main.c88ca9d9.chunk.js",
+    "main.js.map": "/Cardin_2.0/static/js/main.c88ca9d9.chunk.js.map",
     "runtime~main.js": "/Cardin_2.0/static/js/runtime~main.9e51330f.js",
     "runtime~main.js.map": "/Cardin_2.0/static/js/runtime~main.9e51330f.js.map",
     "static/js/2.abd4516a.chunk.js": "/Cardin_2.0/static/js/2.abd4516a.chunk.js",
     "static/js/2.abd4516a.chunk.js.map": "/Cardin_2.0/static/js/2.abd4516a.chunk.js.map",
     "index.html": "/Cardin_2.0/index.html",
-    "precache-manifest.7a6bc98b34cc875536dfe8cb9edfeb10.js": "/Cardin_2.0/precache-manifest.7a6bc98b34cc875536dfe8cb9edfeb10.js",
+    "precache-manifest.b3faf7b62e7fb1c012e4c03eafbe14e2.js": "/Cardin_2.0/precache-manifest.b3faf7b62e7fb1c012e4c03eafbe14e2.js",
     "service-worker.js": "/Cardin_2.0/service-worker.js",
-    "static/css/main.6eb2a6d9.chunk.css.map": "/Cardin_2.0/static/css/main.6eb2a6d9.chunk.css.map",
+    "static/css/main.e21dceb9.chunk.css.map": "/Cardin_2.0/static/css/main.e21dceb9.chunk.css.map",
     "static/media/App.css": "/Cardin_2.0/static/media/YanoneKaffeesatz-Regular.b17d89b1.ttf"
   }
 }
