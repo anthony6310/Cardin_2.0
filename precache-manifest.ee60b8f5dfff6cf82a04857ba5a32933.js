@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69016cd5b51d2ad5a18b9134a5d72db9",
+    "revision": "ce60bd32d5a06e34bd8ab88a8da360cc",
     "url": "/Cardin_2.0/index.html"
   },
   {
-    "revision": "4e6f6f0ca8d1a86ba931",
+    "revision": "7611f86a46c6251b351d",
     "url": "/Cardin_2.0/static/css/main.097393f9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cardin_2.0/static/js/2.42e98e21.chunk.js"
   },
   {
-    "revision": "4e6f6f0ca8d1a86ba931",
-    "url": "/Cardin_2.0/static/js/main.1c2d2337.chunk.js"
+    "revision": "7611f86a46c6251b351d",
+    "url": "/Cardin_2.0/static/js/main.cfd7482d.chunk.js"
   },
   {
     "revision": "955d764d900c45d4af86",
